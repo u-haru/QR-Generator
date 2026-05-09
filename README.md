@@ -2,6 +2,8 @@
 
 React + TypeScript で構築した静的な QR Code 生成 SPA です。
 
+**https://qr.pages.u-haru.com/**
+
 すべてのオプションはクエリパラメータで制御できるため、ブラウザの検索エンジン機能を使って URL バーから直接 QR を生成できます。
 
 ## セットアップ
